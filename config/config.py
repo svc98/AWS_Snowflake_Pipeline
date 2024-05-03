@@ -1,0 +1,6 @@
+configuration = {
+    'AWS_ACCESS_KEY': 'AKIA4MTWMU726PHEA4V6',
+    'AWS_SECRET_KEY': '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',
+    'AWS_REGION': 'us-east-2',
+    "API_KEY": 'befd1e30711b490f954161502240105'
+}
