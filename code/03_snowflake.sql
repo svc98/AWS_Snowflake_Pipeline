@@ -49,8 +49,6 @@ create or replace pipe weather_pipe auto_ingest=true as
 copy into weather_data
 from @ext_weather_stage;
 
-show pipes;
-
 
 
 -- See the Weather Data
